@@ -1,5 +1,3 @@
-Absolutely Kunal! Here's a complete and professional-style README.md for your Student Record Management System project. This version is designed to showcase your skills, explain the project clearly, and impress recruiters or collaborators on GitHub or during interviews.
-
 📘 Student Record Management System
 A simple, menu-driven Java CLI application to manage student records using Object-Oriented Programming and ArrayList. This project demonstrates CRUD operations (Create, Read, Update, Delete) with input validation and real-world logic.
 
